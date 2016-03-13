@@ -3,13 +3,14 @@ layout: page
 title: About
 permalink: /about/
 ---
+### Kami ini..
 
-Some information about you!
+Bukan mahasiswa dewa, apalagi mahasiswa berprestasi. Kami hanya mahasiswa biasa yang ingin berbagi informasi apa yang kita miliki. That's it. :trollface:
 
-### More Information
+### Penulis dan Kontributor
 
-A place to include any other types of information that you'd like to include about yourself.
+Anda dapat @mention <a> Sony Wicaksono (@sonyayahab) dan Ahmad Yasin (@yasin_ahmad).
 
-### Contact me
+### Kontak Kami
 
-[email@domain.com](mailto:email@domain.com)
+[sonyayahab@gmail.com](mailto:sonyayahab@gmail.com)
